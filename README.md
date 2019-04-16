@@ -24,7 +24,7 @@
     }
     }
 PreFragment.java
-
+ 
     package com.example.lenovo.work4;
     import android.os.Bundle;
     import android.preference.PreferenceFragment;
@@ -41,8 +41,8 @@ PreFragment.java
 
 容器 activity_main.xml
    
-   <?xml version="1.0" encoding="utf-8"?>
-   <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    <?xml version="1.0" encoding="utf-8"?>
+    <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -117,3 +117,8 @@ PreFragment.java
     </PreferenceScreen>
 
 结果截图：
+![Image text](https://github.com/maijiang/Work4/blob/master/4.1.PNG)
+![Image text](https://github.com/maijiang/Work4/blob/master/4.2.PNG)
+![Image text](https://github.com/maijiang/Work4/blob/master/4.3.PNG)
+![Image text](https://github.com/maijiang/Work4/blob/master/4.4.PNG)
+![Image text](https://github.com/maijiang/Work4/blob/master/4.5.PNG)
